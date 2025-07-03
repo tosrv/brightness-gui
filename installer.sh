@@ -17,7 +17,7 @@ fi
 
 echo "Setting up autostart..."
 mkdir -p ~/.config/autostart
-cp brightness-tray.desktop ~/.config/autostart/
+cp brightness-gui.desktop ~/.config/autostart/
 
 echo "Installation complete!"
 echo "You may need to log out and log back in to see the tray icon."
