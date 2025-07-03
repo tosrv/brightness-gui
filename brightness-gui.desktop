@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Brightness GUI
+Exec=brightness-tray.sh
+Icon=display-brightness
+X-GNOME-Autostart-enabled=true
